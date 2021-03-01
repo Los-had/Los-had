@@ -7,4 +7,4 @@ estou  aprendendo agora :
 * machine learning
 * bibliotecas do python 
 * interatividades do site com javascript
-
+* [meu canal do youtube, clique aqui para ver](https://www.youtube.com/channel/UCBITyx_njlrhlt0Rj6R0-LQ)
