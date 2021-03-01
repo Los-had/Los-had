@@ -3,9 +3,11 @@ sou um programador Front-end  entrando  no mundo de desenvolvimento de softwares
 Moro no Rio de Janeiro , Brasil
 e ainda estou estudando  muitas linguagens 
 mais focado em desenvolvimento para  web 
-estou  aprendendo agora :
+estou  aprendendo agora:
 * machine learning
 * bibliotecas do python 
 * interatividades do site com javascript
 * [meu canal do youtube, clique aqui para ver](https://www.youtube.com/channel/UCBITyx_njlrhlt0Rj6R0-LQ)
+
+
 focado em meu mais novo projeto tomara que de certo kkkk
