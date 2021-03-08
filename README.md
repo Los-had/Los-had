@@ -1,7 +1,7 @@
 olá eu sou Loshad (Miguel)
 sou um programador Front-end  entrando  no mundo de desenvolvimento de softwares com C#
 Moro no Rio de Janeiro , Brasil
-e ainda estou estudando  muitas linguagens 
+e ainda estou estudando  muitas linguagens de programação.
 mais focado em desenvolvimento para  web 
 
 estou  aprendendo agora:
