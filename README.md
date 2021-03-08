@@ -9,6 +9,6 @@ estou  aprendendo agora:
 * bibliotecas do python 
 * interatividades do site com javascript
 * [meu canal do youtube, clique aqui para ver](https://www.youtube.com/channel/UCBITyx_njlrhlt0Rj6R0-LQ)
-
+* quero aprender php e poo
 
 focado em meu mais novo projeto tomara que de certo kkkk
