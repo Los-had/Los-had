@@ -14,3 +14,5 @@ estou  aprendendo agora:
 Criando meu novo site.
 
 focado em meu mais novo projeto tomara que de certo kkkk.
+
+[link do meu grupo no telegram](https://t.me/joinchat/TdG8frMDSzsxZGUx)
