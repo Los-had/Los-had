@@ -1,6 +1,6 @@
 Olá eu sou Loshad (Miguel).
 
-Sou um programador Front-end  entrando  no mundo de desenvolvimento de softwares com C#.
+Sou um programador Front-end  aprendendo python e php. 
 
 ---
 
@@ -10,18 +10,18 @@ Sou um programador Front-end  entrando  no mundo de desenvolvimento de softwares
 
 Moro no Rio de Janeiro , Brasil.
 
-E ainda estou estudando  muitas linguagens de programação.
+E ainda estou estudando muito python e php.
 
 Mais focado em desenvolvimento para  web. 
 
 estou  aprendendo agora:
-* machine learning
+* interação de formulários
 * bibliotecas do python 
 * interatividades do site com javascript
 
 Criando meu novo site.
 
-quero aprender php e poo
+quero aprender poo no php
 
 # Links importantes:
 
