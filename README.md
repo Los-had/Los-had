@@ -1,6 +1,6 @@
 Olá eu sou Loshad (Miguel).
 
-Sou um programador Front-end  aprendendo python e php. 
+Sou um programador aprendendo python e php. 
 
 ---
 
