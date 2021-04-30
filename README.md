@@ -1,6 +1,6 @@
 Olá eu sou Loshad (Miguel).
 
-Sou um programador aprendendo python e php. 
+Estou aprendendo php. 
 
 ---
 
@@ -10,7 +10,7 @@ Sou um programador aprendendo python e php.
 
 Moro no Rio de Janeiro , Brasil.
 
-E ainda estou estudando muito python e php.
+E ainda estou estudando muito php.
 
 Mais focado em desenvolvimento para  web. 
 
