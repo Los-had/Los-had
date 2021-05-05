@@ -31,4 +31,7 @@ quero aprender poo no php
 [meu canal do youtube, clique aqui para ver](https://www.youtube.com/channel/UCBITyx_njlrhlt0Rj6R0-LQ)
 
 [Repl.it](https://replit.com/@Loshad)
- 
+
+
+![GitHub followers](https://img.shields.io/github/followers/Los-had?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Los-had?style=social)
