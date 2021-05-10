@@ -5,7 +5,7 @@ Estou aprendendo php.
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Los-had&show_icons=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Los-Had&hide=html&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Los-had&hide=html&layout=compact&theme=tokyonight)
 
 ---
 
