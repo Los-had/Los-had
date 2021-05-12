@@ -9,20 +9,28 @@ Estou aprendendo php.
 
 ---
 
-Moro no Rio de Janeiro , Brasil.
-
-E ainda estou estudando muito php.
-
+Moro no Rio de Janeiro , Brasil. 
 Mais focado em desenvolvimento para  web. 
 
 estou  aprendendo agora:
-* interação de formulários
-* bibliotecas do python 
-* interatividades do site com javascript
 
-Criando meu novo site.
+* interação de formulários 
+* php e mysql
 
-quero aprender poo no php
+# tecnologias e ferramentas que eu aprendi a usar
+
+![vscode icon](https://user-images.githubusercontent.com/79226657/118053389-d1031200-b35a-11eb-9907-66f5cc43bb62.png)
+
+![php icon](https://user-images.githubusercontent.com/79226657/118053440-e8da9600-b35a-11eb-8b1e-a1a7410def0c.png)
+
+![github icone](https://user-images.githubusercontent.com/79226657/118053560-1f181580-b35b-11eb-985a-f56c16dd532d.png)
+
+![repl it icon](https://user-images.githubusercontent.com/79226657/118053631-45d64c00-b35b-11eb-9fa5-8a4b1319ea57.png)
+
+![html icon](https://user-images.githubusercontent.com/79226657/118053712-68686500-b35b-11eb-9029-c679bebf3db8.png)
+
+![css icon](https://user-images.githubusercontent.com/79226657/118053767-7a4a0800-b35b-11eb-8e71-6a877bc49d29.png)
+
 
 # Links importantes:
 
@@ -32,6 +40,6 @@ quero aprender poo no php
 
 [Repl.it](https://replit.com/@Loshad)
 
-
+![GitHub repo size](https://img.shields.io/github/repo-size/Los-had/Los-had)
 ![GitHub followers](https://img.shields.io/github/followers/Los-had?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/Los-had?style=social)
