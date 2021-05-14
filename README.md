@@ -17,7 +17,7 @@ estou  aprendendo agora:
 * interação de formulários 
 * php e mysql
 
-# tecnologias e ferramentas que eu aprendi a usar
+# tecnologias e ferramentas que eu sei/aprendi usar
 
 ![vscode icon](https://user-images.githubusercontent.com/79226657/118053389-d1031200-b35a-11eb-9907-66f5cc43bb62.png)
 
