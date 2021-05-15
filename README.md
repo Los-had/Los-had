@@ -14,7 +14,7 @@ Mais focado em desenvolvimento para  web.
 
 estou  aprendendo agora:
 
-* interação de formulários 
+* função hash no php 
 * php e mysql
 
 # tecnologias e ferramentas que eu sei/aprendi usar
