@@ -1,6 +1,7 @@
 Olá eu sou Loshad (Miguel).
+Moro no Rio de Janeiro , Brasil. 
+Mais focado em desenvolvimento web. 
 
-Estou aprendendo php. 
 
 ---
 
@@ -8,9 +9,6 @@ Estou aprendendo php.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Los-had&hide=html&layout=compact&theme=tokyonight)
 
 ---
-
-Moro no Rio de Janeiro , Brasil. 
-Mais focado em desenvolvimento para  web. 
 
 estou  aprendendo agora:
 
