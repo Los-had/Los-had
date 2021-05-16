@@ -14,11 +14,12 @@ Mais focado em desenvolvimento para  web.
 
 estou  aprendendo agora:
 
-* função hash no php 
+* JavaScript
 * php e mysql
 
 # tecnologias e ferramentas que eu sei/aprendi usar
 
+<!--
 ![vscode icon](https://user-images.githubusercontent.com/79226657/118053389-d1031200-b35a-11eb-9907-66f5cc43bb62.png)
 
 ![php icon](https://user-images.githubusercontent.com/79226657/118053440-e8da9600-b35a-11eb-8b1e-a1a7410def0c.png)
@@ -30,7 +31,9 @@ estou  aprendendo agora:
 ![html icon](https://user-images.githubusercontent.com/79226657/118053712-68686500-b35b-11eb-9029-c679bebf3db8.png)
 
 ![css icon](https://user-images.githubusercontent.com/79226657/118053767-7a4a0800-b35b-11eb-8e71-6a877bc49d29.png)
+-->
 
+VScode, php, HTML5, CSS3, GitHub, Git, Repl.it e terminal
 
 # Links importantes:
 
