@@ -14,6 +14,7 @@ estou  aprendendo agora:
 
 * JavaScript
 * php e mysql
+* python
 
 # tecnologias e ferramentas que eu sei/aprendi usar
 
