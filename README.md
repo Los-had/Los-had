@@ -33,6 +33,16 @@ estou  aprendendo agora:
 
 VScode, php, HTML5, CSS3, GitHub, Git, Repl.it e terminal
 
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+
+
+<!--
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+-->
+
 # Links importantes:
 
 <details title="Links importantes">
