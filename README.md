@@ -34,7 +34,7 @@ estou  aprendendo agora:
 
 VScode, php, HTML5, CSS3, GitHub, Git, Repl.it e terminal
 
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> 
 
 
 
