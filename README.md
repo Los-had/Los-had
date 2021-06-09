@@ -32,7 +32,7 @@ estou  aprendendo agora:
 ![css icon](https://user-images.githubusercontent.com/79226657/118053767-7a4a0800-b35b-11eb-8e71-6a877bc49d29.png)
 -->
 
-VScode, php, HTML5, CSS3, GitHub, Git, Repl.it e terminal
+VScode, php, HTML5, CSS3, GitHub, Git e Repl.it
 
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> 
 
