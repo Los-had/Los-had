@@ -12,8 +12,7 @@ Mais focado em desenvolvimento web.
 
 estou  aprendendo agora:
 
-* JavaScript
-* php e mysql
+* ruby
 * python
 
 # tecnologias e ferramentas que eu sei/aprendi usar
