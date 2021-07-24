@@ -9,7 +9,7 @@ Mais focado em desenvolvimento web.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Los-had&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Los-had&hide=html&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=los-had&hide=html&layout=compact&theme=tokyonight)
 
 ---
 
