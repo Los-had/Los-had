@@ -55,8 +55,6 @@ VScode, php, HTML5, CSS3, GitHub, Git, Repl.it e python
 
 [link do meu grupo no telegram](https://t.me/joinchat/TdG8frMDSzsxZGUx)
 
-[meu canal do youtube, clique aqui para ver](https://www.youtube.com/channel/UCBITyx_njlrhlt0Rj6R0-LQ)
-
 [Repl.it](https://replit.com/@Loshad)
 
 </details>
