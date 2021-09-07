@@ -30,7 +30,7 @@ Mais focado em desenvolvimento web.
                         "pysimplegui"
                 ],
                 "outros": [
-                        "beautifulsoup4"
+                        "beautifulsoup4",
                         "discord.py",
                         "sqlite3",
                         "requests"
