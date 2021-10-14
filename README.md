@@ -11,7 +11,7 @@ Mais focado em desenvolvimento web.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=los-had&hide=html&layout=compact&theme=tokyonight)
 
----
+<!--
 
 ```
 "nome": "Miguel",
@@ -66,3 +66,5 @@ Mais focado em desenvolvimento web.
         }
 ]
 ```
+
+-->
