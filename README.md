@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=los-had" alt="los-had" /></a> </p>
 
-- 🔭 I’m currently working on [covid19 voice assistant](https://github.com/Los-had/covid19-voice-assistant)
+- 🔭 I’m currently working on [mocking api](https://github.com/Los-had/mocking-api)
 
 - 🌱 I’m currently learning **golang**
 
-- 🤝 I’m looking for help with [covid19 voice assistant](https://github.com/Los-had/covid19-voice-assistant)
+- 🤝 I’m looking for help with [mocking api](https://github.com/Los-had/mocking-api)
 
 - 💬 Ask me about **python**
 
