@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=los-had" alt="los-had" /></a> </p>
 
-- 🔭 I’m currently working on [logpy](https://github.com/Los-had/logpy)
+- 🔭 I’m currently working on [qmts-crawler](https://github.com/Los-had/qmts-crawler)
 
 - 🌱 I’m currently learning **golang**
 
-- 🤝 I’m looking for help with [logpy](https://github.com/Los-had/logpy)
+- 🤝 I’m looking for help with [My own web crawler](https://github.com/Los-had/qmts-crawler)
 
 - 💬 Ask me about **python**
 
