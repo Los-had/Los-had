@@ -1,3 +1,5 @@
+
+<!--
 <h1 align="center">Hi 👋, I'm Miguel(Loshad)</h1>
 <h3 align="center">focused in backend development.</h3>
 
@@ -41,6 +43,8 @@ Mais focado em desenvolvimento web.
 [![trophy](https://github-profile-trophy.vercel.app/?username=Los-had&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=los-had&hide=html&layout=compact&theme=tokyonight)
+
+-->
 
 <!--
 
@@ -100,3 +104,6 @@ Mais focado em desenvolvimento web.
 
 -->
 
+coding in my spare time
+
+love python and go
